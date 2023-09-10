@@ -1,6 +1,7 @@
 {
-  "homepage": "https://Mdknn.github.io/Kanbanboard",
+  
   "name": "kanbanboard",
+  "homepage": "https://Mdknn.github.io/Kanbanboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

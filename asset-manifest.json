@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mdknn/Kanban-board.git/static/css/main.b185c735.css",
+    "main.js": "/Mdknn/Kanban-board.git/static/js/main.8dacc662.js",
+    "index.html": "/Mdknn/Kanban-board.git/index.html",
+    "main.b185c735.css.map": "/Mdknn/Kanban-board.git/static/css/main.b185c735.css.map",
+    "main.8dacc662.js.map": "/Mdknn/Kanban-board.git/static/js/main.8dacc662.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b185c735.css",
+    "static/js/main.8dacc662.js"
+  ]
+}

@@ -2,7 +2,8 @@
 HI This is a Kanban board project.We build this project on react js.In this project there are three board section we create To do , Doing , Done. In this Kanban board project you can manage , update , delete , add  your task also drag your board, delete your board manage your manage board.
 c:\Users\mdkai\Pictures\Screenshots\Screenshot (85).png
 ![Alt text](<Screenshot (84).png>)
-d:\reactkn\kanban\public\Screenshot (84).png   
+d:\reactkn\kanban\public\Screenshot (84).png
+fot   
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -2,8 +2,25 @@
 HI This is a Kanban board project.We build this project on react js.In this project there are three board section we create To do , Doing , Done. In this Kanban board project you can manage , update , delete , add  your task also drag your board, delete your board manage your manage board.
 c:\Users\mdkai\Pictures\Screenshots\Screenshot (85).png
 ![Alt text](<Screenshot (84).png>)
-d:\reactkn\kanban\public\Screenshot (84).png
-fot   
+d:\reactkn\kanban\public\Screenshot (84).png   
+Screenshots of delete board
+c:\Users\mdkai\Pictures\Screenshots\Screenshot (69).png
+![Alt text](<Screenshot (69).png>)
+c:\Users\mdkai\Pictures\Screenshots\Screenshot (71).png
+![Alt text](<Screenshot (71).png>)
+d:\reactkn\kanban\public\Screenshot (71).png
+Screenshots of creating board
+c:\Users\mdkai\Pictures\Screenshots\Screenshot (65).png
+![Alt text](<Screenshot (65).png>)
+d:\reactkn\kanban\public\Screenshot (65).png
+Screenshots of drag board
+c:\Users\mdkai\Pictures\Screenshots\Screenshot (68).png
+![Alt text](<Screenshot (68).png>)
+d:\reactkn\kanban\public\Screenshot (68).png
+c:\Users\mdkai\Pictures\Screenshots\Screenshot (69).png
+![Alt text](<Screenshot (69)-2.png>)
+d:\reactkn\kanban\public\Screenshot (69).png
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
